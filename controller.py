@@ -99,7 +99,8 @@ class Controller(QObject):
                 'cs_CZ': 'Czech',
                 'en_US': 'English',
                 'es_ES': 'Spanish',
-		        'de_DE': 'German'
+		        'de_DE': 'German',
+		    si_SI:  'Slovenian'
             },
             'printer': {
                 'i3': 'i3',
