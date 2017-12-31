@@ -6,12 +6,12 @@
     <message>
         <location filename="gui.py" line="453"/>
         <source>PrusaControl version is </source>
-        <translation type="obsolete">PrusaControl version is </translation>
+        <translation type="obsolete">PrusaControl verzija je </translation>
     </message>
     <message>
         <location filename="gui.py" line="454"/>
         <source>Slic3r engine version is </source>
-        <translation type="obsolete">Slic3r engine version is </translation>
+        <translation type="obsolete">Slic3r verzija mašine </translation>
     </message>
 </context>
 <context>
@@ -19,7 +19,7 @@
     <message>
         <location filename="sceneData.py" line="312"/>
         <source>â¢ Object %s... is out of printable area!</source>
-        <translation type="obsolete">â¢ Object %s... is out of printable area!</translation>
+        <translation type="obsolete">â¢ Objekt %s... je izven površine tiskanja!</translation>
     </message>
 </context>
 <context>
@@ -388,7 +388,7 @@
     <message>
         <location filename="gui.py" line="1502"/>
         <source>Printer settings</source>
-        <translation>Printer settings</translation>
+        <translation>Nastavitve tiskanja</translation>
     </message>
     <message>
         <location filename="gui.py" line="1504"/>
@@ -398,52 +398,52 @@
     <message>
         <location filename="gui.py" line="1505"/>
         <source>Select material for printing</source>
-        <translation>Select material for printing.</translation>
+        <translation>Izberite material za tiskanje.</translation>
     </message>
     <message>
         <location filename="gui.py" line="1510"/>
         <source>Quality</source>
-        <translation>Quality</translation>
+        <translation>Kvaliteta</translation>
     </message>
     <message>
         <location filename="gui.py" line="1511"/>
         <source>Select quality for printing</source>
-        <translation>Select quality for printing, better quality longer print.</translation>
+        <translation>Izberite kvaliteto tiskanja - boljša kvaliteta, počasnejše tiskanje.</translation>
     </message>
     <message>
         <location filename="gui.py" line="2868"/>
         <source>Infill</source>
-        <translation>Infill</translation>
+        <translation>Polnilo</translation>
     </message>
     <message>
         <location filename="gui.py" line="1516"/>
         <source>Select how much space inside of model have to be filled</source>
-        <translation>Select how much space inside of model have to be filled</translation>
+        <translation>Izberite koliko prostora znotraj modela naj se zapolni</translation>
     </message>
     <message>
         <location filename="gui.py" line="1520"/>
         <source>Support</source>
-        <translation>Support</translation>
+        <translation>Podpora</translation>
     </message>
     <message>
         <location filename="gui.py" line="1577"/>
         <source>None</source>
-        <translation>None</translation>
+        <translation>Brez</translation>
     </message>
     <message>
         <location filename="gui.py" line="1577"/>
         <source>Build plate only</source>
-        <translation>Only from build plate</translation>
+        <translation>Samo od mize navzgor</translation>
     </message>
     <message>
         <location filename="gui.py" line="1577"/>
         <source>Everywhere</source>
-        <translation>Everywhere</translation>
+        <translation>Povsod</translation>
     </message>
     <message>
         <location filename="gui.py" line="1521"/>
         <source>Select what kind of supports do you need, if any</source>
-        <translation>Select what kind of support do you need</translation>
+        <translation>Izberite vrsto podpore, ki jo želite</translation>
     </message>
     <message>
         <location filename="gui.py" line="1528"/>
@@ -458,7 +458,7 @@
     <message>
         <location filename="gui.py" line="1547"/>
         <source>Object settings</source>
-        <translation>Object settings</translation>
+        <translation>Nastavitve modela</translation>
     </message>
     <message>
         <location filename="gui.py" line="1548"/>
